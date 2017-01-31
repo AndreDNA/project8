@@ -1,0 +1,21 @@
+th {
+background-color: yellow; 
+border: solid;
+}
+
+td {
+border: 3px dotted blue;
+}
+
+table {
+border-collapse: collapse;
+text-align: center;
+font-family: Verdana;
+margin: auto;
+width: 650px;
+}
+
+h1 {
+text-align: center;
+color: green;
+}
